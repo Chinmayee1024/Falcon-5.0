@@ -4,8 +4,8 @@
   borders, margin, padding, and the content itself. It is used to create the design
   and layout of web pages. According to the CSS box model, the web browser
   supplies each element as a square prism.
-
-<link rel="stylesheet" href="https://github.com/Pramodjena/Falcon-4.0/blob/main/CSS/class-2/image.png?raw=true">
+![alt text](image.png)
+<img src="https://github.com/Pramodjena/Falcon-4.0/blob/main/CSS/class-2/image.png?raw=true" alt="">
 
 # CSS Flexbox Guide
 
