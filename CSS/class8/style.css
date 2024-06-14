@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serifmar;
+    margin: 0;
+    padding: 0;
+
+}
+.box{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    background-color: lightblue;
+
+}
+@media(max-width:600px){
+    .box{
+        background-color: green;
+        font-size: 2em;
+    }
+}
+@media(min-width:6018px) {
+    .box{
+        background-color: royalblue;
+        font-size: 3em;
+    }
+    
+}
